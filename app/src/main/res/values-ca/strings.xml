@@ -74,9 +74,6 @@
     <string name="about_heading_website">lloc web</string>
     <string name="about_heading_contributions">contribucions</string>
     <string name="about_heading_code">codi</string>
-
-
-    <string name="about_heading_code">codi</string>
     <string name="about_heading_opensource">llicències de codi obert</string>
     <string name="about_text_opensource">Fem servir les següents biblioteques de codi obert. Agraïm a totes les persones involucrades en aquests projectes</string>
     <string name="about_license_website">lloc web</string>
